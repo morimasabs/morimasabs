@@ -1,4 +1,4 @@
-## I'm Masahito Mori 👋
+## 🍎I'm Masahito Mori
 - Nicname: Morimasa
 - Job: iOS Engineer
 - X: @morimasabs
