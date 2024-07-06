@@ -1,7 +1,7 @@
 ## I'm Masahito Mori 👋
-Nicname: Morimasa
-Job: iOS Engineer
-X: @morimasabs
+- Nicname: Morimasa
+- Job: iOS Engineer
+- X: @morimasabs
 
 ## ⭐️Status
 <!-- リポジトリステータス -->
